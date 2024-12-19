@@ -26,7 +26,7 @@ export default {
   width: 100vw;
   height: 100vh;
   background-color: rgba(137, 136, 136, 0.5);
-  z-index: 11;
+  z-index: 999;
 }
 .challengesection {
   width: 300px;
